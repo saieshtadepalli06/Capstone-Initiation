@@ -21,11 +21,9 @@ h. Joining the Bureau and previous application tables and inspecting again
 
 To address the challenges and capitalize on the opportunities in the lending landscape, I propose a comprehensive solution for Home Credit:
 
-**Advanced Predictive Models:** Implement state-of-the-art predictive models that leverage machine learning algorithms to assess creditworthiness. These models should analyze a diverse set of data points, including transaction history, behavioral patterns, and alternative data sources to provide a more accurate risk assessment.
+**Advanced Predictive Models:** Implement predictive models that leverage machine learning algorithms to assess creditworthiness. These models should analyze a diverse set of data points, including transaction history, behavioral patterns, and alternative data sources to provide a more accurate risk assessment.
 
 **Transparent Decision-Making with Tree Explainer:** Integrate Tree Explainer algorithms to enhance the transparency of model predictions. This not only ensures a clear understanding of the factors influencing decisions but also allows for more effective communication with customers, fostering trust and transparency in the loan approval process.
-
-**Automation for Efficiency:** Streamline the loan approval process by incorporating automation at every stage. Automated document verification, digital application processing, and real-time data analysis will significantly reduce turnaround times, providing customers with a faster and more efficient lending experience.
 
 **Tailored Credit Limits and Interest Rates:** Develop a dynamic system for determining credit limits and interest rates based on individual risk profiles. This personalized approach will not only attract a diverse customer base but also mitigate risks by aligning financial terms with each customer's unique financial situation.
 
@@ -45,10 +43,9 @@ To address the challenges and capitalize on the opportunities in the lending lan
 
 ## Business Value 
 
-The overarching impact of my contributions lies in significantly reducing the number of borrowers who face challenges in repaying their loans. Through data preparation, advanced feature engineering, and model optimization, the project is poised to enhance the precision of identifying borrowers with a higher likelihood of successful loan repayment. By implementing robust sampling techniques, baseline models, and advanced model tuning, the project aims to minimize the financial repercussions associated with borrower defaults. This strategic approach not only improves the accuracy of predicting defaults but also aids in proactively identifying potential risks, mitigating financial damage for the company.
+The overarching impact of my contributions lies in significantly reducing the number of borrowers who face challenges in repaying their loans. Through data preparation, advanced feature engineering, and model optimization, the project is focused to enhance the precision of identifying borrowers with a higher likelihood of successful loan repayment. By implementing robust sampling techniques, baseline models, and advanced model tuning, our project aims to minimize the financial repercussions associated with borrower defaults. 
 
 One of the significant outcomes of my work is the empowerment of the company to identify and implement effective risk mitigation strategies. Through the exploration of explainable AI (XAI) and SHAP plots, the project provides insights into the factors influencing predictions, enabling the company to devise targeted measures to mitigate risks associated with loan approvals.
-The tailored credit limits and interest rates, achieved through meticulous feature engineering and model fine-tuning, contribute to maintaining a balanced portfolio. This approach ensures that risks are minimized while maximizing accuracy, striking an optimal balance that aligns with the company's objectives of responsible lending and sustained financial success.
 
 ## Difficulties Encountered
 
@@ -60,7 +57,7 @@ To overcome the collaboration constraints, we implemented a more structured appr
 
 ## Learning
 
-One of the key takeaways from this project was gaining valuable experience in collaborative teamwork. Overcoming initial challenges in finding a common workspace, our team learned to allocate tasks efficiently, ensuring a seamless workflow. This experience enhanced my ability to collaborate effectively within a team, demonstrating adaptability and coordination in a dynamic project environment. Working within a defined time frame highlighted the importance of time management in project delivery. 
+One of the key takeaways from this project was gaining valuable experience in collaborative teamwork. Overcoming initial challenges in finding a common workspace, I learned to allocate tasks efficiently, ensuring a seamless workflow. This experience enhanced my ability to collaborate effectively within a team, demonstrating adaptability and coordination in a dynamic project environment. Working within a defined time frame highlighted the importance of time management in project delivery. 
 
 Through careful planning and prioritization, I developed skills in meeting deadlines and delivering project milestones on schedule. This experience reinforced the significance of efficient time utilization in achieving successful outcomes. The project provided an opportunity for extensive research into various machine learning models. By evaluating their suitability for specific project requirements, I expanded my knowledge of different model architectures, enhancing my understanding of when to apply each model to achieve optimal results. 
 
