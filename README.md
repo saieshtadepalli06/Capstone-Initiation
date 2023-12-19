@@ -6,7 +6,7 @@ Home Credit Group, established in 1997, has a mission to provide financial solut
 
 The solution to this problem would include the development of supervised predictive classification models since we have historical labelled data and as the outcome of the target variable is binary with values of 0 and 1, indicating that the potential customer will repay the loan on time or will have difficulty repaying loan respectively. This involves Logistic Regression and use of ensemble methods for extracting a list of customers with higher probabilities of loan repayment. The client’s repayment prediction will be based on alternate data to loan history such as telco and transactional information.
 
-Before we delve into building models, lets perform EDA. EDA generally involves the following:
+Before we delved into building models, EDA has been performed. EDA generally involves the following:
 
 a. Import & inspect dataset along with the target variable
 b. Explore the relationship between target and predictors
